@@ -63,7 +63,7 @@ Keras est une branche de la blibliothèque tensorflow destinée à l'entrainemen
 
 Nous avons decidé d'entraîner le modèle de CNN nommé LeNet-5 pour deux raisons:
 
-La première est que c'est un des premiers CNNs développé pour la reconnaissance d'objet. Nous voulions donc avoir un modèle moins poussé qu'avec Pytorch pour attester non-seulement de la pertinence de ces algorithmes dans ce domaine mais pour également avoir la possibilité de comparer les performances avec des algorithmes de machine learning plus communs (cf la partie sklearn).
+La première est que c'est un des premiers CNNs développé pour la reconnaissance d'objet. Nous voulions donc avoir un modèle moins poussé qu'avec Pytorch pour attester non seulement de la pertinence de ces algorithmes dans ce domaine mais pour également avoir la possibilité de comparer les performances avec des algorithmes de machine learning plus communs (cf la partie sklearn).
 
 La seconde est que nous avons pensé qu'utiliser ce modèle serait un sympathique clin d'oeil à un grand chercheur français, M. Yann Le Cun.
 
