@@ -17,4 +17,11 @@ Vous pouvez installer ces paquets en exécutant la commande suivante :
 
 pip install -r requirements.txt
 
-#end
+#Pytorch
+
+#tensorflow object detection api
+
+#sklearn
+
+#keras
+
