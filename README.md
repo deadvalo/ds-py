@@ -48,7 +48,7 @@ SKlearn est une bibliothèque de machine learning, très pratique pour la prise 
 
 Cette partie sur SKlearn assume donc le rôle d'une mesure étalon des performances d'algorithmes de machine learning.
 
-Veuillez noter que certaines images, pour des soucis de compatibilité, ont été supprimées du dataset original. Pour reproduire à l'identique les expériences, veuillez utiliser les datasets du dossier "SK/Keras_dataset".
+Veuillez noter que certaines images, pour des soucis de compatibilité, ont été supprimées du dataset original. Pour reproduire à l'identique les expériences, veuillez utiliser les datasets du dossier "SK_Keras_data".
 
 (Voir notebook "Sklearn pipeline")
 
@@ -62,7 +62,7 @@ La première est que c'est un des premiers CNNs développé pour la reconnaissan
 
 La seconde est que nous avons pensé qu'utiliser ce modèle serait un sympathique clin d'oeil à un grand chercheur français, M. Yann Le Cun.
 
-Veuillez noter que certaines images, pour des soucis de compatibilité, ont été supprimées du dataset original. Pour reproduire à l'identique les expériences, veuillez utiliser les datasets du dossier "SK/Keras_dataset".
+Veuillez noter que certaines images, pour des soucis de compatibilité, ont été supprimées du dataset original. Pour reproduire à l'identique les expériences, veuillez utiliser les datasets du dossier "SK_Keras_data".
 
 (Voir notebook "Keras pipeline")
 
