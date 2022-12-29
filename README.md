@@ -54,7 +54,7 @@ Veuillez noter que certaines images, pour des soucis de compatibilité, ont ét�
 (Voir notebook "Sklearn pipeline")
 
 Sources : 
--https://scikit-learn.org/stable/supervised_learning.html#supervised-learning (choix et aide à prendre en main les différents modèles de classification) 
+-https://scikit-learn.org/stable/supervised_learning.html#supervised-learning (choix et aide à prendre en main les différents modèles de classification) <br>
 -https://github.com/shukkkur/Predict-Species-from-Images (aide pour l'ajout de features)
 
 # Keras
