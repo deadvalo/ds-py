@@ -28,6 +28,8 @@ Voici comment intaller PyTorch et CUDA pour entraîner un modèle CNN sur votre 
   
   pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
   
+Pour voir le code regarder le notebook torch_CNN.ipynb
+  
 # tensorflow object detection api
 La TensorFlow Object Detection API est un outil open source TensorFlow par Google qui permet de détecter et d'étiqueter les objets dans des images et des vidéos. Il s'appuie sur des modèles de deep learning pré-entraînés qui peuvent être utilisés pour la détection d'objets en utilisant le transfert d'apprentissage.
 
@@ -38,6 +40,8 @@ Ensuite, nous avons utilisé un modèle pré-entraîné de TensorFlow 2.0 pour e
 Voici comment utiliser l'API Object Detection de TensorFlow pour détecter et étiqueter des objets dans des images :
 
   pip install tensorflow-object-detection
+
+Pour voir le code regarder le notebook tf_object_detect_api.ipynb
 
 # sklearn
 
