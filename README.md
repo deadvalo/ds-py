@@ -48,6 +48,8 @@ SKlearn est une bibliothèque de machine learning, très pratique pour la prise 
 
 Cette partie sur SKlearn assume donc le rôle d'une mesure étalon des performances d'algorithmes de machine learning.
 
+Veuillez noter que certaines images, pour des soucis de compatibilité, ont été supprimées du dataset original. Pour reproduire à l'identique les expériences, veuillez utiliser les datasets du dossier "SK/Keras_dataset".
+
 (Voir notebook "Sklearn pipeline")
 
 # Keras
@@ -59,6 +61,8 @@ Nous avons decidé d'entraîner le modèle de CNN nommé LeNet-5 pour deux raiso
 La première est que c'est un des premiers CNNs développé pour la reconnaissance d'objet. Nous voulions donc avoir un modèle moins poussé qu'avec Pytorch pour attester non-seulement de la pertinence de ces algorithmes dans ce domaine mais pour également avoir la possibilité de comparer les performances avec des algorithmes de machine learning plus communs (cf la partie sklearn).
 
 La seconde est que nous avons pensé qu'utiliser ce modèle serait un sympathique clin d'oeil à un grand chercheur français, M. Yann Le Cun.
+
+Veuillez noter que certaines images, pour des soucis de compatibilité, ont été supprimées du dataset original. Pour reproduire à l'identique les expériences, veuillez utiliser les datasets du dossier "SK/Keras_dataset".
 
 (Voir notebook "Keras pipeline")
 
