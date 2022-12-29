@@ -52,6 +52,10 @@ Veuillez noter que certaines images, pour des soucis de compatibilité, ont ét�
 
 (Voir notebook "Sklearn pipeline")
 
+Sources : 
+-https://scikit-learn.org/stable/supervised_learning.html#supervised-learning (choix et aide à prendre en main les différents modèles de classification)
+-https://github.com/shukkkur/Predict-Species-from-Images (aide pour l'ajout de features)
+
 # Keras
 
 Keras est une branche de la blibliothèque tensorflow destinée à l'entrainement de réseaux de neurones. Elle était donc toute désignée pour notre projet de reconnaissance d'objet.
@@ -66,3 +70,8 @@ Veuillez noter que certaines images, pour des soucis de compatibilité, ont ét�
 
 (Voir notebook "Keras pipeline")
 
+Sources :
+-https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5082166-quest-ce-quun-reseau-de-neurones-convolutif-ou-cnn (découverte de la notion de CNN)
+-https://keras.io/api/ (exploration de la documentation keras pour maitrîser la bibliothèque)
+-https://towardsdatascience.com/convolutional-neural-network-champions-part-1-lenet-5-7a8d6eb98df6 (explication de l'architecture LeNet-5
+-https://gist.github.com/samyumobi/8144b8eb041046df820531e5fe982524#file-car-damage-detection-colab-ipynb (un exemple de notebook nous permettant de nous projeter sur la démarche à suivre)
