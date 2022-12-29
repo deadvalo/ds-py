@@ -27,7 +27,7 @@ SKlearn est une bibliothèque de machine learning, très pratique pour la prise 
 
 Cette partie sur SKlearn assume donc le rôle d'une mesure étalon des performances d'algorithmes de machine learning.
 
-(Voir notebook "Sklearn pipeline)
+(Voir notebook "Sklearn pipeline")
 
 # Keras
 
