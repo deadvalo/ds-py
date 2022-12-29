@@ -1,6 +1,7 @@
 # Détection de dommages sur une voiture
 Ce projet utilise différentes approches de machine learning pour détecter les dommages sur une voiture à partir d'images.
 Trois modèles de classification d'images (CNN de PyTorch, CNN de Keras et Sklearn) et une API de détection d'objets de TensorFlow sont utilisés.
+Le data est récupérable à l'adresse suivante : https://www.kaggle.com/datasets/anujms/car-damage-detection
 
 # Requirements.txt
 
@@ -53,7 +54,7 @@ Veuillez noter que certaines images, pour des soucis de compatibilité, ont ét�
 (Voir notebook "Sklearn pipeline")
 
 Sources : 
--https://scikit-learn.org/stable/supervised_learning.html#supervised-learning (choix et aide à prendre en main les différents modèles de classification)
+-https://scikit-learn.org/stable/supervised_learning.html#supervised-learning (choix et aide à prendre en main les différents modèles de classification) 
 -https://github.com/shukkkur/Predict-Species-from-Images (aide pour l'ajout de features)
 
 # Keras
