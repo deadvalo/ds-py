@@ -77,4 +77,4 @@ Veuillez noter que certaines images, pour des soucis de compatibilité, ont ét�
 -https://keras.io/api/ (exploration de la documentation keras pour maitrîser la bibliothèque) <br>
 -https://towardsdatascience.com/convolutional-neural-network-champions-part-1-lenet-5-7a8d6eb98df6 (explication de l'architecture LeNet-5) <br>
 -https://gist.github.com/samyumobi/8144b8eb041046df820531e5fe982524#file-car-damage-detection-colab-ipynb (un exemple de notebook nous permettant de nous projeter sur la démarche à suivre) <br>
-6https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html (un tuto qui nous a permis à comprendre pytorch)
