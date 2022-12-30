@@ -72,8 +72,9 @@ Veuillez noter que certaines images, pour des soucis de compatibilité, ont ét�
 
 (Voir notebook "Keras pipeline")
 
-Sources :<br>
+# Sources :<br>
 -https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5082166-quest-ce-quun-reseau-de-neurones-convolutif-ou-cnn (découverte de la notion de CNN) <br>
 -https://keras.io/api/ (exploration de la documentation keras pour maitrîser la bibliothèque) <br>
 -https://towardsdatascience.com/convolutional-neural-network-champions-part-1-lenet-5-7a8d6eb98df6 (explication de l'architecture LeNet-5) <br>
 -https://gist.github.com/samyumobi/8144b8eb041046df820531e5fe982524#file-car-damage-detection-colab-ipynb (un exemple de notebook nous permettant de nous projeter sur la démarche à suivre) <br>
+6https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
