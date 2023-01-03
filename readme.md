@@ -2,6 +2,8 @@
 Ce projet utilise différentes approches de machine learning pour détecter les dommages sur une voiture à partir d'images.
 Trois modèles de classification d'images (CNN de PyTorch, CNN de Keras et Sklearn) et une API de détection d'objets de TensorFlow sont utilisés.
 
+Le dataset est récupérable à l'adresse suivante : https://www.kaggle.com/datasets/anujms/car-damage-detection
+
 # Requirements.txt
 
 Les paquets suivants sont nécessaires pour exécuter ce projet :
@@ -52,13 +54,14 @@ Veuillez noter que certaines images, pour des soucis de compatibilité, ont ét�
 
 (Voir notebook "Sklearn pipeline")
 
+
 # Keras
 
 Keras est une branche de la blibliothèque tensorflow destinée à l'entrainement de réseaux de neurones. Elle était donc toute désignée pour notre projet de reconnaissance d'objet.
 
 Nous avons decidé d'entraîner le modèle de CNN nommé LeNet-5 pour deux raisons:
 
-La première est que c'est un des premiers CNNs développé pour la reconnaissance d'objet. Nous voulions donc avoir un modèle moins poussé qu'avec Pytorch pour attester non-seulement de la pertinence de ces algorithmes dans ce domaine mais pour également avoir la possibilité de comparer les performances avec des algorithmes de machine learning plus communs (cf la partie sklearn).
+La première est que c'est un des premiers CNNs développé pour la reconnaissance d'objet. Nous voulions donc avoir un modèle moins poussé qu'avec Pytorch pour attester non seulement de la pertinence de ces algorithmes dans ce domaine mais pour également avoir la possibilité de comparer les performances avec des algorithmes de machine learning plus communs (cf la partie sklearn).
 
 La seconde est que nous avons pensé qu'utiliser ce modèle serait un sympathique clin d'oeil à un grand chercheur français, M. Yann Le Cun.
 
@@ -66,3 +69,12 @@ Veuillez noter que certaines images, pour des soucis de compatibilité, ont ét�
 
 (Voir notebook "Keras pipeline")
 
+# Sources :<br>
+-https://scikit-learn.org/stable/supervised_learning.html#supervised-learning (choix et aide à prendre en main les différents modèles de classification) <br>
+-https://github.com/shukkkur/Predict-Species-from-Images (aide pour l'ajout de features) <br>
+-https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5082166-quest-ce-quun-reseau-de-neurones-convolutif-ou-cnn (découverte de la notion de CNN) <br>
+-https://keras.io/api/ (exploration de la documentation keras pour maitrîser la bibliothèque) <br>
+-https://towardsdatascience.com/convolutional-neural-network-champions-part-1-lenet-5-7a8d6eb98df6 (explication de l'architecture LeNet-5) <br>
+-https://gist.github.com/samyumobi/8144b8eb041046df820531e5fe982524#file-car-damage-detection-colab-ipynb (un exemple de notebook nous permettant de nous projeter sur la démarche à suivre) <br>
+-https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html (un tuto qui nous a permis à comprendre pytorch) <br>
+-https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/ (un tuto qui nous a permis à utiliser pytorch object detection api de tenserflow)
